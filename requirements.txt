@@ -1,2 +1,9 @@
 ipykernel
 kaggle
+keras
+matplotlib
+tensorflow
+opencv-python
+split-folders
+keras-preprocessing
+scipy
